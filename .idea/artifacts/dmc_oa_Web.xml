@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dmc-oa:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/dmc_oa_Web</output-path>
+    <root id="archive" name="dmc-oa_Web.war">
+      <element id="artifact" artifact-name="dmc-oa:Web exploded" />
+    </root>
+  </artifact>
+</component>
